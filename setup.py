@@ -16,6 +16,7 @@ setup(
         #'click',
         'requests',
         'python-telegram-bot',
+        'BeautifulSoup',
     ],
     #entry_points='''
     #    [console_scripts]
